@@ -17,6 +17,7 @@ Other Style Guides
   - [CSS-in-JavaScript](css-in-javascript/)
   - [CSS & Sass](https://github.com/airbnb/css)
   - [Ruby](https://github.com/airbnb/ruby)
+  - [The Advanced Concepts (2022 Update)](https://github.com/lhpchihung/javascript-master/tree/master/the-advanced-concepts-2022)
 
 ## Table of Contents
 
