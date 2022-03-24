@@ -12,13 +12,23 @@ This guide is available in other languages too. See [Translation](#translation)
 
 Other Style Guides
 
-  - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
-  - [React](react/)
-  - [CSS-in-JavaScript](css-in-javascript/)
+  - [Angular Style Guide](angular-style-guide/)
+  - [Angular Tutorial](angular-tutorial/)
+  - [RxJs](rxjs/)
+  - [VueJs Style Guide](vuejs-style-guide/)
+  - [VueJs Tutorial](vuejs-tutorial/)
+  - [Vuex](vuex/)
+  - [ReactJs Style Guide](reactjs-style-guide/)
+  - [ReactJs Tutorial](reactjs-tutorial/)
+  - [Redux](redux/)
+  - [HTML](html/)
   - [CSS & Sass](https://github.com/airbnb/css)
+  - [CSS-in-JavaScript](css-in-javascript/)
   - [Ruby](https://github.com/airbnb/ruby)
-  - [The Advanced Concepts (2022 Update)](https://github.com/lhpchihung/javascript-master/tree/master/the-advanced-concepts-2022)
-  - [RxJs](https://github.com/lhpchihung/javascript-master/tree/master/rxjs)
+  - [NodeJs](nodejs/)
+  - [NextJs](nextjs/)
+  - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
+  - [The Advanced Concepts (2022 Update)](the-advanced-concepts-2022/)
 
 ## Table of Contents
 
