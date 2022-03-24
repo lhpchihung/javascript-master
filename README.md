@@ -18,6 +18,7 @@ Other Style Guides
   - [CSS & Sass](https://github.com/airbnb/css)
   - [Ruby](https://github.com/airbnb/ruby)
   - [The Advanced Concepts (2022 Update)](https://github.com/lhpchihung/javascript-master/tree/master/the-advanced-concepts-2022)
+  - [RxJs](https://github.com/lhpchihung/javascript-master/tree/master/rxjs)
 
 ## Table of Contents
 
