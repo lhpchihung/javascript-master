@@ -17,3 +17,5 @@
   4. [Transmitting data between components]()
   5. [Reacting to an HTTP request]()
 
+ReactJs is Javascript library for building user interfaces
+NextJs is the react framwork for production. A fullstack frameword for ReactJs
