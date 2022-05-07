@@ -29,6 +29,7 @@ Other Style Guides
   - [NextJs](nextjs/)
   - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
   - [The Advanced Concepts (2022 Update)](the-advanced-concepts-2022/)
+  - [Javascript Interview](javascript-interview/)
 
 ## Table of Contents
 
